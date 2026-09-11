@@ -1,0 +1,342 @@
+---
+title: "04/戦後体制の再編とグローバル化"
+date: 2026/10/26
+
+modified-date: today
+
+format: 
+  revealjs:
+    footer: "戦後体制の再編とグローバル化"
+    mermaid:
+      theme: neutral
+
+metadata-files: 
+  - "style/slide.yml"
+---
+
+{{< include _common.qmd >}}
+
+## 今日の目次
+
+1. はじめに
+1. 戦後体制の再編
+1. グローバル化の概念と現状
+1. グローバル化と国内政治
+1. グローバル化と民主主義
+1. まとめ
+
+# はじめに
+## 先週のRP
+TBD
+
+## 本日の目的と到達目標
+#### 目的
+戦後政治経済体制が1970年代以降どのように変容してきたのか主要な要因を学ぶとともに、特にグローバル化の影響を詳しく検討する。グローバル化の現状をデータに基づいて概観したのち、グローバル化が政治に与える影響を考察する。
+
+::: {.fragment .fade-in}
+#### 到達目標
+1. 1970年代に戦後体制が直面した国際・国内的な再編圧力を挙げ、説明できる。
+1. KOF Globalization Idexに基づいてグローバル化の現状を描写できる。
+1. グローバル化が国内政治に与える影響について、収斂仮説と分岐仮説を対比できる。
+1. 世界経済のトリレンマの見地からグローバル化と民主主義の関係を議論できる。
+
+:::
+
+# 戦後体制の再編
+## Think-pair-share（-10分）
+先週は戦後政治経済体制について学びましたが、改めて戦後体制とはどのような体制だったかを思い出してください。
+
+::: {.notes}
+（復習）戦後体制
+
+- アメリカの覇権
+- ケインズ主義的福祉国家
+- 固定相場制
+- 埋め込まれた自由主義
+- フォーディズム
+:::
+
+## 戦後体制の変化
+1960年代以降の国際的・国内的変化が70年代に顕在化し、戦後体制は再編へ向かう
+
+::: {.incremental}
+- **国際的な変化**…アメリカの（相対的）衰退
+   - アメリカの他国に対する優位が失われる
+   - 「覇権による安定」の前提が崩壊
+- **国内的な変化**…ケインズ主義の前提崩壊
+   - ケインズ主義では説明できない現象
+   - 新しい経済学のパラダイムの登場
+
+:::
+
+## アメリカの衰退
+::: {.colmuns}
+::: {.column width=70%}
+::: {.fragment .fade-in}
+1960年代〜　**経常赤字**→ドル信用低下
+
+::: {.incremental}
+- ベトナム戦争の長期化
+- 旧敗戦国の経済復興
+- 国内福祉の拡大
+
+:::
+:::
+
+::: {.fragment .fade-in}
+1971年8月15日　**ニクソン・ショック**
+
+::: {.incremental}
+- 金ドルの交換一時停止の宣言
+- 以降なし崩し的に**変動相場制**へ
+
+:::
+:::
+
+:::
+
+::: {.column width=2%}
+
+:::
+
+::: {.column width=28%}
+::: {.fragment .fade-in}
+![Richard Nixon (1913-94)](https://upload.wikimedia.org/wikipedia/commons/2/2c/Richard_Nixon_presidential_portrait_%281%29.jpg?utm_source=ja.wikipedia.org&utm_campaign=imageinfo&utm_content=original){width=100%}
+:::
+:::
+
+:::
+
+## ケインズ主義への疑念
+**スタグフレーション** (stagflation)…低成長と高インフレの同時発生
+
+::: {.incremental}
+- サービス産業移行による生産性向上の鈍化
+- 高賃金・高福祉による物価高→**オイルショック**（1973年）による拍車
+
+:::
+
+::: {.fragment .fade-in}
+ケインズ主義の前提としての**フィリップス曲線**
+
+::: {.incremental}
+- 失業とインフレのトレードオフ
+   - 高失業低インフレor低失業高インフレ
+- 裁量的財政・金融政策による調整
+
+:::
+
+:::
+
+::: {.fragment .fade-in}
+**マネタリズム**と**新自由主義改革**
+
+::: {.incremental}
+- 貨幣供給量を一定に保つための政府支出削減
+
+:::
+:::
+
+# グローバル化の概念と現状
+## グローバル化（globalization）
+国境を超えた社会的経済的な結びつき
+
+::: {.fragment .fade-in}
+コヘインとナイの3次元[^keohane2000]：
+
+::: {.incremental}
+- **経済**のグローバル化…モノ・資本・サービス、市場交換に関する情報・認識の長距離移動
+- **政治**のグローバル化…政府の政策の拡散
+- **社会**のグローバル化…アイデア、情報、イメージ、人々の移動
+
+:::
+:::
+
+[^keohane2000]: Keohane,  Robert  O.;  Joseph  S.  Nye  (2000),  “Introduction”,  in:  Joseph  S.  Nye  and  John  D. Donahue  (eds.),  Governance  in  a  Globalizing  World,  Brookings  Institution  Press, Washington, D.C.: 1-44.
+
+## KOF Globalisation Index
+ETH Zurich KOFが提供する、各国各年のグローバル化の程度を操作化した指標[^dreher2006] [^gygli2019]
+
+::: {.fragment .fade-in}
+::: {style="font-size: 80%;"}
+|          | 実質（de facto）                         | 法的（de jure）                            | 
+| -------- | ---------------------------------------- | ------------------------------------------ | 
+| **経済** | 財サービス貿易、FDIなど                  | 貿易規制、投資規制など                     | 
+| **社会** | 移民、インターネット接続、文化財貿易など | 旅行の自由、ネット接続、ジェンダー平等など | 
+| **政治** | 大使館数、国際NGO数など                  | 国際機関加盟数、国際条約数など             | 
+
+:::
+
+[【詳細】](https://ethz.ch/content/dam/ethz/special-interest/dual/kof-dam/documents/Globalization/2025/KOFGI_2025_Structure.pdf)
+
+:::
+
+[^dreher2006]: Dreher, Axel (2006): external page Does Globalization Affect Growth? Evidence from a new Index of Globalization, *Applied Economics 38, 10*: 1091-1110.
+
+[^gygli2019]: Gygli, Savina, Florian Haelg, Niklas Potrafke and Jan-Egbert Sturm (2019): The KOF Globalisation Index – Revisited, *Review of International Organizations, 14*(3), 543-574.
+
+## KOF Indexの平均の推移
+```{r}
+KOFGI_2025_public <- read_excel("data/KOFGI_2025_public.xlsx")
+
+KOFGI_2025_public |> 
+  select(year, KOFGI, KOFEcGI, KOFSoGI, KOFPoGI) |> 
+  group_by(year) |> 
+  summarize(KOFGI   = mean(KOFGI, na.rm = TRUE),
+            KOFEcGI = mean(KOFEcGI, na.rm = TRUE),
+            KOFSoGI = mean(KOFSoGI, na.rm = TRUE),
+            KOFPoGI = mean(KOFPoGI, na.rm = TRUE)) |> 
+  pivot_longer(cols = c("KOFGI", "KOFEcGI", "KOFSoGI", "KOFPoGI"),
+               names_to = "variable") |> 
+  mutate(variable = factor(variable,
+                           levels = c("KOFGI", "KOFEcGI", "KOFSoGI", "KOFPoGI"),
+                           labels = c("KOF総合", "KOF経済", "KOF社会", "KOF政治"))) |> 
+  ggplot(aes(x = year, y = value)) +
+  geom_line(aes(colour = variable)) +
+  labs(x = "年", y = "KOF指標の値", colour = "") +
+  theme(legend.position = "bottom")
+```
+Q. このグラフから何が読み取れる？（わせポチ）
+
+# グローバル化と国内政治
+## 収斂仮説
+グローバル化は各国の政治経済のあり方を**均質化**させるという仮説
+
+::: {.incremental}
+- **底辺への競争**…産業の空洞化を防ぐために、税や社会保障の引き下げや規制緩和
+- 労使関係の変化…移動できない労働者vs.移動できる企業→労働条件の悪化
+- **ワークフェア競争国家**…福祉受給に就労を条件づけて国際競争に勝とうとする国のあり方
+
+:::
+
+## 法人税率の推移
+
+<iframe title="Corporate Tax Rates Have Leveled Off in Recent Years After Decades of Continuous Decline" aria-label="Line chart" id="datawrapper-chart-8GdsL" src="https://datawrapper.dwcdn.net/8GdsL/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="640" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+
+## 分岐仮説
+グローバル化への対応は国家によって**異なる**とする仮説
+
+::: {.incremental}
+- **補償仮説**…グローバル化の悪影響を緩和するためにむしろ福祉は充実する
+- **企業・投資家の利益**…格差縮小による治安の安定やインフラの充実は企業誘致に有利
+- **ポスト工業化**…労働市場の変化は産業構造変化によるもの
+
+:::
+
+## 補償仮説
+福祉が発達した北欧は国際貿易に強く依存する小国であるという観察（**小国仮説**）
+
+::: {.fragment .fade-in}
+ダニ・ロドリック「貿易開放性が高い国々で政府支出が大きい」[^rodrik1998]
+
+   ![Rodrik (1998: 1000)](figs/openness_govexp.png){width=60%}
+   
+:::
+
+[^rodrik1998]: Rodrik, D. (1998). Why do more open economies have bigger governments? *Journal of Political Economy, 106*(5), 997-1032. 
+
+## アンケート
+ここまでの話を聞いて、収斂仮説と分岐仮説どちらが説得力が高いと思いますか？（わせポチ）
+
+::: {.notes}
+- 比較政治経済学では分岐仮説の方が有力
+  - 要因：党派性、権力資源、経路依存性、国家の統治能力…
+
+:::
+
+# グローバル化と民主主義
+## 世界経済のトリレンマ
+![出典：教科書p.45](figs/economic_trilemma.png){.r-stretch}
+
+::: {.notes}
+**グローバル化**・**国家主権**・**民主主義**の3つの目標のうち同時に達成できるのは2つだけである
+
+- マンデル＝フレミングモデルから着想
+- 歴史的展開：
+  - 金本位制…グローバル化と国家主権
+  - ブレトン・ウッズ体制…国家主権と民主主義
+  - グローバル・ガバナンス…グローバル化と民主主義→世銀やIMF、EUなど**民主主義の赤字**
+  
+:::
+
+<!-- ## グローバル・ガバナンス -->
+<!-- 国家だけでなく国際機関・多国籍企業・NGO・地方政府がネットワーク的に権力を行使している状態 -->
+
+<!-- ::: {.fragment .fade-in} -->
+<!-- #### 民主主義の赤字 -->
+<!-- 多元化した権力（特に国際機関）に対する民主的統制の欠如 -->
+
+<!-- ::: {.incremental} -->
+<!-- - 例：IMFや世界銀行…出資額に応じた議決権配分 -->
+<!-- - 例：欧州連合（EU）…複雑すぎる組織と制約された欧州議会 -->
+
+<!-- ::: -->
+<!-- ::: -->
+
+## ワーク
+教科書p.46以降から排外主義の台頭の原因について議論されています。確認の上、自分の言葉でまとめてください。
+
+## 右派ポピュリズム政党
+排外主義とポピュリズム的主張を組み合わせた**右派ポピュリズム政党**の台頭
+
+::: {.incremental}
+- **ポピュリズム**…腐敗したエリートと善良なる大衆の二項対立
+- 例：ドイツのための選択肢（AfD）、リフォームUK、フランス国民連合
+
+:::
+
+::: {.fragment .fade-in}
+台頭の要因をめぐる言説…取り残された労働者・低所得層の支持？
+
+::: {.incremental}
+- 民主主義の赤字…多元化した権力（特に国際機関）に対する民主的統制の欠如
+- エレファント・カーブ…停滞する先進国中間層の所得
+
+:::
+:::
+
+## 比較政治学の知見
+::: {.columns}
+::: {.column width=70%}
+右派ポピュリズム政党の台頭は経済だけでは説明**できない**
+
+::: {.incremental}
+- 所得や満足度との相関はない
+- 価値観や認識の重要性
+   - 伝統文化志向
+   - 命令・規則への服従志向
+   - 移民に対する文化的・経済的脅威認識
+- 高齢・白人・地方在住者の高い支持
+
+:::
+
+:::
+
+::: {.column width=30%}
+![[Amazon](https://www.amazon.co.jp/%E6%AC%A7%E5%B7%9E%E3%81%AE%E6%8E%92%E5%A4%96%E4%B8%BB%E7%BE%A9%E3%81%A8%E3%83%8A%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AA%E3%82%BA%E3%83%A0%E2%80%95%E8%AA%BF%E6%9F%BB%E3%81%8B%E3%82%89%E8%A6%8B%E3%82%8B%E4%B8%96%E8%AB%96%E3%81%AE%E6%9C%AC%E8%B3%AA-%E4%B8%AD%E4%BA%95-%E9%81%BC/dp/478772102X)](https://m.media-amazon.com/images/I/712m9bQdO-L.jpg)
+:::
+
+:::
+
+# まとめ
+## 本日の目的と到達目標
+#### 目的
+戦後政治経済体制が1970年代以降どのように変容してきたのか主要な要因を学ぶとともに、特にグローバル化の影響を詳しく検討する。グローバル化の現状をデータに基づいて概観したのち、グローバル化が政治に与える影響を考察する。
+
+::: {.fragment .fade-in}
+#### 到達目標
+1. 1970年代に戦後体制が直面した国際・国内的な再編圧力を挙げ、説明できる。
+1. KOF Globalization Idexに基づいてグローバル化の現状を描写できる。
+1. グローバル化が国内政治に与える影響について、収斂仮説と分岐仮説を対比できる。
+1. 世界経済のトリレンマの見地からグローバル化と民主主義の関係を議論できる。
+
+:::
+
+## 次回までに
+#### 事前学習
+- 教科書（第3章）を読む。
+
+#### 事後学習
+
+ - 授業資料を見直し、目標到達をセルフチェック
+ - Moodle上でのリアクションペーパー入力（木曜日まで）

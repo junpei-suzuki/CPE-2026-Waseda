@@ -1,7 +1,7 @@
 ---
 title: "比較政治経済分析"
 subtitle: "早稲田大学｜政治経済学部｜2026年度秋学期｜月曜日2限"
-date: 2026-10-05
+date: 2026-09-11
 date-modified: today
 author:
   - name: 鈴木淳平
