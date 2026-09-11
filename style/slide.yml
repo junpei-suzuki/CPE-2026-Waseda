@@ -1,0 +1,43 @@
+subtitle: "比較政治経済分析"
+
+author:
+    - name: "鈴木淳平"
+      affiliation: "早稲田大学政治経済学部"
+      email: jsuzuki@komazawa-u.ac.jp
+
+lang: ja
+
+knitr: 
+  opts_chunk: 
+    dev: ragg_png
+    dev.args:
+      background: transparent
+    dpi: 300
+    fig.align: "center"
+    fig.width: 6
+    fig.height: 3
+    echo: false
+    message: false
+    warning: false
+    error: true
+    
+format:
+  revealjs:
+    theme: [white, style/slide.scss]
+    width: 1200 #1600
+    height: 900
+#    email: jsuzuki@komazawa-u.ac.jp
+    logo: figs/Waseda_logo.png
+    header-logo-link: "https://junpei-suzuki.github.io/"
+    link-external-newwindow: true
+    slide-number: "c/t"
+    html-table-processing: none
+    code-line-numbers: false
+    code-annotations: select
+    auto-stretch: false
+    chalkboard: true
+html-math-method:
+  method: mathjax
+  url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+revealjs-plugins:
+  - pointer

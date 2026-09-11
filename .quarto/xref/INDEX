@@ -1,0 +1,29 @@
+{
+  "index.qmd": {
+    "index.html": "7ddeed2d"
+  },
+  "00_syllabus.qmd": {
+    "00_syllabus.html": "ab6221c2"
+  },
+  "about.qmd": {
+    "about.html": "48666a40"
+  },
+  "01_intro_slide.qmd": {
+    "01_intro_slide.html": "6d1e5210"
+  },
+  "01_intro.qmd": {
+    "01_intro.html": "58175f07"
+  },
+  "02_overview_slide.qmd": {
+    "02_overview_slide.html": "6b411695"
+  },
+  "02_overview.qmd": {
+    "02_overview.html": "9eed2709"
+  },
+  "03_postwar_slide.qmd": {
+    "03_postwar_slide.html": "c28b27f4"
+  },
+  "03_postwar.qmd": {
+    "03_postwar.html": "0bf9ff09"
+  }
+}

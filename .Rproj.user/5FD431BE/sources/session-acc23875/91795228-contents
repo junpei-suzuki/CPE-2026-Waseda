@@ -1,0 +1,56 @@
+project:
+  type: website
+  output-dir: docs
+  render: 
+    - "*.qmd"
+
+lang: ja
+
+website:
+  title: "比較政治経済分析@早稲田2026"
+  page-footer: 
+    right: "@2026 Junpei Suzuki"
+  sidebar:
+    style: floating
+    search: true
+    collapse-level: 2
+    contents:
+      - text: "シラバス"
+        href: 00_syllabus.qmd
+      - text: ---
+      - section: イントロダクション
+        contents: 
+          - text: "01/はじめに"
+            href: 01_intro.qmd
+          - text: "02/比較政治経済学の全体像"
+            href: 02_overview.qmd
+      - section: 歴史的展開
+        contents: 
+          - text: "03/戦後政治経済体制"
+          - text: "04/戦後体制の再編とグローバル化"
+      - section: 多国間比較
+        contents: 
+          - text: "05/資本主義の多様性"
+          - text: "06/福祉国家の多様性"
+          - text: "07/福祉国家の政治経済学"
+          - text: "08/福祉国家の再編"
+      - section: 政治経済の相互作用
+        contents:
+          - text: "09/再分配の政治経済学"
+          - text: "10/成長の政治経済学"
+          - text: "11/財政政策の政治経済学"
+          - text: "12/金融政策の政治経済学"
+      - section: まとめ
+        contents:
+          - text: "13/開発戦略の再編"
+          - text: "14/理解度の確認"
+format:
+  html:
+    theme: a11y
+    grid:
+      sidebar-width: 250px
+    number-sections: false
+    toc: true
+    link-external-newwindow: true
+
+freeze: auto
