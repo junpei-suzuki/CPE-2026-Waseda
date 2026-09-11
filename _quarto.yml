@@ -29,6 +29,7 @@ website:
           - text: "03/戦後政治経済体制"
             href: 03_postwar.qmd
           - text: "04/戦後体制の再編とグローバル化"
+            href: 04_globalization.qmd
       - section: 多国間比較
         contents: 
           - text: "05/資本主義の多様性"
