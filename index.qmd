@@ -19,7 +19,7 @@ author:
 ## 基礎情報
  - 学期：秋学期
  - 日時：月曜日2限 (10:40-12:20)
- - 場所：TBD
+ - 場所：3-405
  - 担当教員：鈴木淳平
      - 本務校：駒澤大学法学部政治学科
      - 連絡先：[jsuzuki@komazawa-u.ac.jp](mailto:jsuzuki@komazawa-u.ac.jp)
