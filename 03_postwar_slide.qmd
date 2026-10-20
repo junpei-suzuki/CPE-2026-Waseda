@@ -106,6 +106,9 @@ metadata-files:
 
 :::
 
+## 本日の授業の位置付け
+![](figs/graphic_syllabus_cpe.png)
+
 # パックス・ブリタニカ
 ::: {.notes}
 ここまで15分
