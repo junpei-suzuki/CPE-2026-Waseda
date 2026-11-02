@@ -164,7 +164,7 @@ metadata-files:
 フィリップ・シュミッターのコーポラティズム論[^schmitter1974]
 
 ::: {.incremental}
-- 現在の酪農業界と[ファシスト・イタリアのCorporativismo](https://www.quaritch.com/books/fascism/ordinamento-corporativo-dello-stato-fascista/PO13/)の類似から着想
+- 現在の酪農業界と[ファシスト・イタリアのCorporativismo](https://upload.wikimedia.org/wikipedia/commons/b/b8/Ordinamento_Corporativo_dello_Stato_Fascista_manifesto_storico_anni_1930_%28ricolorato%29.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)の類似から着想
 
 :::
 
